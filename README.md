@@ -1,8 +1,8 @@
 # DFT-to-ML-Models
 Predicting Electrical Properties with ML Using DFT Data
 
-Neural Network and Machine Learning Models Applied to "From density functional theory to machine learning predictive models for electrical properties of spinel oxides"
-This repository contains the implementation of various machine learning models, including a Neural Network, to replicate and extend the findings presented in the paper titled "[Title of the Paper]" published in Scientific Reports by [Authors]. The paper focuses on [briefly describe the key topic or findings of the paper, e.g., "the electronic properties of spinel oxides and their predictive modeling."].
+Neural Network and Machine Learning Models Applied to data from "From density functional theory to machine learning predictive models for electrical properties of spinel oxides" paper.
+This repository contains the implementation of various machine learning models, including a Neural Network, to replicate and extend the findings presented in the paper titled "From density functional theory to machine learning predictive models for electrical properties of spinel oxides" published in Scientific Reports.
 
 Overview
 Paper Reference:
